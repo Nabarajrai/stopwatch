@@ -1,0 +1,25 @@
+#timer{
+    background-color: #ccc;
+    display: inline-block;
+    padding: 1rem 2rem;
+    font-size: 40px;
+    margin:0 1rem;
+    cursor: pointer;
+}
+body{
+    border: 1px solid #555;
+    border-radius: 3px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h1{
+    text-align: center;
+    
+    
+}
+@media(max-width:500px){
+    align-items: center;
+    
+
+}
